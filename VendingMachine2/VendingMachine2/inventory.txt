@@ -1,0 +1,4 @@
+Apples::0.25::2
+Plums::5::0
+Grapes::0.50::5
+Water::1::244
